@@ -1,9 +1,9 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/Assets/AssetStoreTools*
+UnityProject//[Ll]ibrary/
+UnityProject//[Tt]emp/
+UnityProject//[Oo]bj/
+UnityProject//[Bb]uild/
+UnityProject//[Bb]uilds/
+UnityProject//Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
 /.vs/
@@ -32,3 +32,17 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+UnityProject/Library
+AndroidProject/gradle
+AndroidProject/.idea
+UnityProject/obj
